@@ -1,5 +1,6 @@
 
 # Project 1: Let's Play with Docker Containers
+**Name:** Nadhirah Michael-Ho
 
 **CECS 327 - Networks & Distributed Computing** 
 
