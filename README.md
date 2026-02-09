@@ -1,6 +1,4 @@
 
-
-````markdown
 # Project 1: Let's Play with Docker Containers
 
 **CECS 327 - Networks & Distributed Computing** 
