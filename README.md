@@ -85,9 +85,4 @@ This task uses Docker Compose to orchestrate communication between a Python TCP 
 * [ ] **Docker:** `Dockerfile` and `docker-compose.yml`.
 * [ ] **Video:** Link to the execution recording.
 
-```
 
-This is now fully Markdown-ready, clean, and structured with headings, code blocks, and lists.  
-
-If you want, I can also make it **look even nicer on GitHub** by adding badges, emojis, and table of contents links. It’ll make it more professional. Do you want me to do that?
-```
