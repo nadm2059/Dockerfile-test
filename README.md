@@ -24,23 +24,20 @@ This project demonstrates the fundamentals of containerization using Docker. It 
 This task deploys an Nginx server and replaces its default landing page with a custom `index.html`.
 
 1. Navigate to the project directory:  
-   ```cmd
+   
    C:\Users\HoFamily\my_dockerapp
-````
 
 2. Execute the following command to run the container and mount the local `index.html`:
 
    **Windows (CMD):**
 
-   ```cmd
    docker run -d -p 8080:80 -v "%cd%/index.html":/usr/share/nginx/html/index.html --name my-nginx nginx:latest
-   ```
+
 
 3. Open your browser and visit:
 
-   ```
    http://localhost:8080
-   ```
+
 
 ---
 
